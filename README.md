@@ -1,7 +1,7 @@
 # Kidnappers Dungeon
 Kidnappers Dungeon is a short platformer game made as a final project for a programming course on a course from the Moscow School of Programmers.
 
-Author: Timofey Bezruchenko (Timofei302 / EnterPlanet Studio)
+Author: Timofey Bezruchenko (Timofei302 / Founder of the EnterPlanet Studio)
 
 # Background:
 You were abducted by an unknown kidnapper and imprisoned you in his "basement". And now you have to escape from prison.
